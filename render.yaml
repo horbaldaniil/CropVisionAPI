@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: cropvisionapi
+    name: CropVisionAPI
     runtime: python
     plan: free
     autoDeploy: false
